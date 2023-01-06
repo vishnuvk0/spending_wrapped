@@ -1,7 +1,7 @@
 # spending_wrapped
-can i track my spending with AI?
+can i track my spending with AI (in progress) ?
 
-see yearly spending using AI
+## to run (so far):
 
 - create a new folder called "data" and a folder under data with your name
 
